@@ -2,3 +2,6 @@
 /shelf/
 /workspace.xml
 .env
+credentials.json
+hours.db
+token.json
