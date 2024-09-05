@@ -14,3 +14,4 @@ type something more natural such as "!add Add a study session called Digital for
 - Google Calendar API
 - Discord API
 - Gemini API
+- SQLite
